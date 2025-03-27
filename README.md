@@ -17,7 +17,7 @@ Make sure you have **Rust** and **Cargo** installed:
 
 ```sh
 git clone
-cd rustbase
+cd ferrum
 cargo run
 ```
 
@@ -26,5 +26,5 @@ cargo run
 ### Send a GET request to:
 
 ```sh
-curl http://localhost:3000/checking?url.in
+curl "http://localhost:3000/checking?url=abc.in"
 ```
