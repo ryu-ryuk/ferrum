@@ -16,7 +16,7 @@ A minimal **Rust-powered backend** to detect harmful websites from a pre-defined
 Make sure you have **Rust** and **Cargo** installed:
 
 ```sh
-git clone
+git clone https://github.com/ryu-ryuk/ferrum.git
 cd ferrum
 cargo run
 ```
