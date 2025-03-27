@@ -1,0 +1,9 @@
+{
+  "flagged_sites": [
+    "blabla.in",
+    "malicious-site.com",
+    "phishing-example.net",
+    "badwebsite.org"
+  ],
+  "last_updated": "2025-03-28"
+}
